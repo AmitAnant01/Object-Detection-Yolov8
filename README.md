@@ -1,6 +1,6 @@
 # 🧠✅ YOLOv8 Smart Object Detector and Counter 🎥 with Open CV
 
-### This is a real-time object detection and counting project using YOLOv8 and OpenCV.
+This is a real-time object detection and counting project using YOLOv8 and OpenCV.
 It detects different types of objects in a video and counts them only when they cross a virtual line (useful for traffic, people counting). This project will basically helps in the detection of objects where we can use it to identify that object which is what exactly.
 
 
