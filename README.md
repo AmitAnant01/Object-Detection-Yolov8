@@ -53,5 +53,5 @@ Timestamp             | Object Name | Total C
 
 
 ## 👩‍💻 Author: Amit Kumar
-<img src="https://github.com/AmitAnant01/Vehicle-Detection-Yolov8/blob/main/detected.png" width="100%" />
+<img src="https://github.com/AmitAnant01/Object-Detection-Yolov8/blob/main/detected.png" width="100%" />
 
