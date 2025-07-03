@@ -52,5 +52,6 @@ Timestamp             | Object Name | Total C
 - Python - One of the best programming language that used to build this project.
 
 
-## 👩‍💻 Author:
-### Amit Kumar
+## 👩‍💻 Author: Amit Kumar
+<img src="https://github.com/AmitAnant01/Vehicle-Detection-Yolov8/blob/main/detected.png" width="100%" />
+
