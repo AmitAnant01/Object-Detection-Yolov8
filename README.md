@@ -17,11 +17,11 @@ It detects different types of objects in a video and counts them only when they 
 
        
 
-# 💡 Where we can use:
+## 💡 Where we can use:
 
-#### 🚦 Smart traffic monitoring during the defferent runnig of the vehicles 
+#### 🚦 Smart traffic monitoring during the defferent runnig of the vehicles. 
 
-#### 🧍 Counting people crossing a line that how many people have crossed the way 
+#### 🧍 Counting people crossing a line that how many people have crossed the way. 
 
 #### 🚗 Vehicle entry and exit tracking whether the vehicles whichever passing through the particular place that is exactly objects or not 
 
